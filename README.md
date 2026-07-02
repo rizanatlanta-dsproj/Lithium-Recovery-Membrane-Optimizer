@@ -43,7 +43,7 @@ The codebase reads raw environmental water quality datasets, extracts targeted i
 | **Membrane Pore Radius** | $0.55 \text{ nm}$ | $0.55 \text{ nm}$ | **$0.30 \text{ nm}$** | Maximized Steric Blocking |
 | **Lithium Rejection %** | $8.69\%$ | $9.70\%$ | **$5.70\%$** | **$-2.99\%$** (Less Mass Wasted) |
 | **Magnesium Rejection %** | $46.54\%$ | $47.80\%$ | **$54.30\%$** | **$+7.76\%$** (Higher Purity) |
-| **Total Lithium Harvested** | $6,754.71 \text{ g}$ | *Checkpoint* | **$6,975.83 \text{ g}$** | **$+221.12 \text{ grams}$** |
+| **Total Lithium Harvested** | $6,754.71 \text{ g}$ | 6678.25 g | **$6,975.83 \text{ g}$** | **$+221.12 \text{ grams}$** |
 
 ### Key Technical Insights
 * **The Counter-Intuitive Trade-off:** The transition between Phase 1 and Phase 2 demonstrated that optimizing chemical processes often involves local compromises. Increasing pressure initially increased Lithium loss, but because it restricted the bulkier contaminant stream at a much faster rate, the system achieved a net separation gain.
